@@ -1,0 +1,19 @@
+/*******************************************************************************
+                          Realizado por |ArgA|MIV
+*******************************************************************************/
+
+// Copiar las siguientes dos lineas al principio del otro archivo description.ext
+#include "core\private_settings.hpp"
+#include "arga_settings.hpp"
+
+class CfgFunctions {
+  // Copiar solamente la linea de debajo dentro de la clase CfgFunctions del otro archivo.
+  // Tiene que quedar con la misma estructura que este archivo pero sumado con
+  // lo que haya tenido el otro archivo.
+  // IMPORTATE: NO BORRAR EL CONTENIDO DE class CfgFunctions DEL OTRO ARCHIVO
+  #include "core\functions.hpp"
+};
+
+/*******************************************************************************
+                          Realizado por |ArgA|MIV
+*******************************************************************************/
