@@ -27,7 +27,7 @@ _AISkills = [
  ["general", 0.5]
 ];
 
-while {alive a9} do {
+while {alive nombre} do {
  _SpawnPosistion = _Spawntarget getRelPos [_Spawndistance, round random 360];
  _NewGroup = [_SpawnPosistion, _Spawnside , _Spawngroups select (floor (random (count _Spawngroups)))] call BIS_fnc_spawnGroup;
 
