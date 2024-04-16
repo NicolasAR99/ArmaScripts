@@ -2,10 +2,10 @@
                           Realizado por |ArgA|MIV
 *******************************************************************************/
 
-#define NAME "Libe Colombia"                  // Colocar nombre de mision
-#define COMPLETE_NAME "LibArga_Colombia_v1" // Nombre y versión de la misión
+#define NAME "Libe ARGA"                  // Colocar nombre de mision
+#define COMPLETE_NAME "Liberation ARGA" // Nombre y versión de la misión
 #define IMAGE "Pictures\Mission\pic.jpg"                    // Colocar nombre y extension de la imagen de portada, ej "imgs\portada.jpg"
-#define DESCRIPTION "Liberation Chernarus"                              // Colocar descripcion de la mision entre las comillas
+#define DESCRIPTION "Liberation ARGA"                              // Colocar descripcion de la mision entre las comillas
 
 CARACTER = "Persistentes";                            // Tipos válidos: "Oficial", "No Oficial", "Entrenamiento", "Entrenamiento reclutas", "Entrenamiento rol", "Persistentes", "TVT"
 
