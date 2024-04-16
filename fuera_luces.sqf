@@ -4,11 +4,11 @@
 
 {
 	_x switchLight "OFF"; 
-} forEach (8 allObjects 0); /// Esta linea solo desactiva las luces del mapa
+} forEach (8 allObjects 0); /// Esta linea solo desactiva las luces colocadas por editor
 
 {
 	_x switchLight "OFF";   
-} forEach (1 allObjects 0); /// Esta linea solo desactiva las luces colocadas por editor
+} forEach (1 allObjects 0); /// Esta linea solo desactiva las luces del mapa
 
 ////////////////////////////
 ////////////////////////////
